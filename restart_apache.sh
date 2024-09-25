@@ -1,4 +1,4 @@
 #!/bin/bash
-sudo apt-get install apache2
-sudo systemctl restart apache2
-sudo systemctl status apache2
+ apt-get install apache2
+systemctl restart apache2
+systemctl status apache2
